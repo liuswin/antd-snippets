@@ -1,6 +1,4 @@
-[![Ant Design](images/icon.png)](https://ant.design/)
-
-# antd-snippets
+# puhui-snippets
 
 > Puhui Snippets for VS Code
 
