@@ -1,17 +1,17 @@
 {
-  "name": "antd-snippets",
-  "version": "1.1.0",
-  "author": "bang <sqibang@gmail.com>",
+  "name": "puhui-snippets",
+  "version": "1.0.0",
+  "author": "liuswin <liu.shuang@inclution.com>",
   "license": "MIT",
-  "displayName": "Ant Design Snippets",
-  "description": "Ant-Design Snippets for VS Code",
+  "displayName": "Puhui dan/dan-pro Snippets",
+  "description": "Puhui Snippets for VS Code",
   "icon": "images/icon.png",
-  "homepage": "https://github.com/bang88/antd-snippets/blob/master/README.md",
+  "homepage": "https://github.com/liuswin/antd-snippets/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bang88/antd-snippets/"
+    "url": "https://github.com/liuswin/antd-snippets/"
   },
-  "publisher": "bang",
+  "publisher": "liuswin",
   "engines": {
     "vscode": "^1.5.0"
   },
