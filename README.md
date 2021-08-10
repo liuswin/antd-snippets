@@ -2,7 +2,7 @@
 
 # antd-snippets
 
-> Ant-Design Snippets for VS Code
+> Puhui Snippets for VS Code
 
 ## Install
 
@@ -21,6 +21,16 @@ ext install antd-snippets
 
 Trigger | Description
 --- | ---
+danbtn-auth | AuthBtn
+danbtn-drawer | DrawerBtn
+danbtn-import | ImportBtn
+dantable-customCol | CustomColumnTable
+dantable-editCell | EditCellTable
+danpage-bussinessCol | PageBusinessColumn
+danpage-bussinessDrawerPro | PageBusinessDrawerPro
+danform-formWrap | FormWrap
+danmodal-modal | Modal
+dantable-searchForm | SearchFormTable
 antaffix | Affix
 antalert | Alert
 antautocomplete | AutoComplete
@@ -93,4 +103,3 @@ anttypography-interactive | Typography Interactive
 anttypography-paragraph | Typography Paragraph
 anttypography-text | Typography Text
 anttypography-title | Typography Title
-
