@@ -4,12 +4,12 @@
 
 ## Install
 
-[Install the extension here](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
+[Install the extension here](https://marketplace.visualstudio.com/items?itemName=liuswin.puhui-snippets)
 
 Or by opening the Command Palette (Ctrl+Shift+P), and running
 
 ```sh
-ext install antd-snippets
+ext install puhui-snippets
 ```
 
 [![Ant Design](images/preview.gif)](###)
@@ -24,11 +24,11 @@ danbtn-drawer | DrawerBtn
 danbtn-import | ImportBtn
 dantable-customCol | CustomColumnTable
 dantable-editCell | EditCellTable
+dantable-searchForm | SearchFormTable
 danpage-bussinessCol | PageBusinessColumn
 danpage-bussinessDrawerPro | PageBusinessDrawerPro
 danform-formWrap | FormWrap
 danmodal-modal | Modal
-dantable-searchForm | SearchFormTable
 antaffix | Affix
 antalert | Alert
 antautocomplete | AutoComplete
