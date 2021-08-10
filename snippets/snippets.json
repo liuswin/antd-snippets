@@ -1,8 +1,99 @@
 {
 	"AuthBtn": {
-		"prefix": "danbtnauth",
+		"prefix": "danbtn-auth",
 		"body": [
 			"<AuthBtn $1 />",
+			""
+		]
+	},
+	"DrawerBtn": {
+		"prefix": "danbtn-drawer",
+		"body": [
+			"<DrawerBtn $1 />",
+			""
+		]
+	},
+	"ImportBtn": {
+		"prefix": "danbtn-import",
+		"body": [
+			"<ImportBtn\r",
+			"  showErrorTableProps={$1}\r",
+			">",
+			"  $2",
+			"</ImportBtn>",
+			""
+		]
+	},
+	"CustomColumnTable": {
+		"prefix": "dantable-customCol",
+		"body": [
+			"<CustomColumnTable\r",
+			"  tableName=\"$1\"\r",
+			"/>",
+			""
+		]
+	},
+	"EditCellTable": {
+		"prefix": "dantable-editCell",
+		"body": [
+			"<EditCellTable\r",
+			"  columns={$1}\r",
+			"  rowKey=\"$2\"\r",
+			"  setDataSource={$3}\r",
+			"  tableName=\"$4\"\r",
+			"  useRemarkTable\r",
+			"/>",
+			""
+		]
+	},
+	"PageBusinessColumn": {
+		"prefix": "danpage-bussinessCol",
+		"body": [
+			"<PageBusinessColumn\r",
+			"  columns={$1}\r",
+			"  fieldList={$2}\r",
+			"  services={$3}\r",
+			"  tableKey=\"$4\"\r",
+			"/>",
+			""
+		]
+	},
+	"PageBusinessDrawerPro": {
+		"prefix": "danpage-bussinessDrawerPro",
+		"body": [
+			"<PageBusinessDrawerPro\r",
+			"  columns={$1}\r",
+			"  fieldList={$2}\r",
+			"  services={$3}\r",
+			"  tableKey=\"$4\"\r",
+			"/>",
+			""
+		]
+	},
+	"FormWrap": {
+		"prefix": "danform-formWrap",
+		"body": [
+			"<FormWrap\r",
+			"  fieldList={$1}\r",
+			"/>",
+			""
+		]
+	},
+	"Dan Modal": {
+		"prefix": "danmodal-modal",
+		"body": [
+			"<Modal\r",
+			"  $1\r",
+			">",
+			"  $2\r",
+			"</Modal>",
+			""
+		]
+	},
+	"SearchFormTable": {
+		"prefix": "dantable-searchForm",
+		"body": [
+			"<SearchFormTable $1 />",
 			""
 		]
 	},
