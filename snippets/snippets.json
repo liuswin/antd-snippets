@@ -1,4 +1,11 @@
 {
+	"AuthBtn": {
+		"prefix": "danbtnauth",
+		"body": [
+			"<AuthBtn $1 />",
+			""
+		]
+	},
 	"Button": {
 		"prefix": "antbutton",
 		"body": [
